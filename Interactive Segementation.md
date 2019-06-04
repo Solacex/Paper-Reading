@@ -13,3 +13,4 @@ P/N points fused after ROI pooling.
 
 Using Scribbles 
 
+Deep Extreme Cut: From Extreme Points to Object Segmentation [PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Maninis_Deep_Extreme_Cut_CVPR_2018_paper.pdf)
